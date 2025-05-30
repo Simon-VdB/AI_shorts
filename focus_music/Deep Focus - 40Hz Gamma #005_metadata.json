@@ -1,0 +1,14 @@
+{
+  "style": "deep_focus",
+  "duration": 35,
+  "base_frequency": 110,
+  "binaural_frequency": 40,
+  "nature_sound": null,
+  "complexity": "complex",
+  "fade_type": "logarithmic",
+  "harmonic_layers": 6,
+  "target_level_db": -5.657291442291357,
+  "generated_at": "2025-05-30T14:03:49.482885",
+  "sample_rate": 44100,
+  "version": "2.0_enhanced"
+}
