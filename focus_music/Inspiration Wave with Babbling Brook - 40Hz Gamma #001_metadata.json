@@ -1,0 +1,14 @@
+{
+  "style": "creative",
+  "duration": 36,
+  "base_frequency": 246.94,
+  "binaural_frequency": 40,
+  "nature_sound": "babbling_brook",
+  "complexity": "complex",
+  "fade_type": "exponential",
+  "harmonic_layers": 5,
+  "target_level_db": -7.584819939088342,
+  "generated_at": "2025-05-30T14:03:47.332375",
+  "sample_rate": 44100,
+  "version": "2.0_enhanced"
+}

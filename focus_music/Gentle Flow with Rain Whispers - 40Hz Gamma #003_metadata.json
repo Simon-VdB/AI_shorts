@@ -1,0 +1,14 @@
+{
+  "style": "relaxed",
+  "duration": 38,
+  "base_frequency": 103.83,
+  "binaural_frequency": 40,
+  "nature_sound": "gentle_rain",
+  "complexity": "simple",
+  "fade_type": "sine_wave",
+  "harmonic_layers": 2,
+  "target_level_db": -7.507087098865743,
+  "generated_at": "2025-05-30T14:03:48.754947",
+  "sample_rate": 44100,
+  "version": "2.0_enhanced"
+}
